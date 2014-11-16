@@ -1,2 +1,2 @@
-run installer.sh to set up and use the jar file to execute.
+run installer.sh to set up and use MainMenu file to execute.
 
